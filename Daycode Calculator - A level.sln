@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daycode Calculator - A level", "Daycode Calculator - A level\Daycode Calculator - A level.csproj", "{F23E84AC-F917-44C5-B2B2-045C61E4C56F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F23E84AC-F917-44C5-B2B2-045C61E4C56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23E84AC-F917-44C5-B2B2-045C61E4C56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23E84AC-F917-44C5-B2B2-045C61E4C56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23E84AC-F917-44C5-B2B2-045C61E4C56F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39FE6527-B315-4CAA-841F-E4F61129F0BB}
+	EndGlobalSection
+EndGlobal
