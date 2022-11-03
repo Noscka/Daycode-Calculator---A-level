@@ -9,7 +9,7 @@ namespace Daycode_Calculator___A_level
 			Console.Write("Input day, month and year in format (DDMMYYYY): ");
 			string input = Console.ReadLine(); /* Get input from user */
 
-			if (input.Length != 8 || !(int.TryParse("123", out _))) /* check if string is valid with checking if it is of lenght 8 and also fully numeric */
+			if (input.Length != 8 || !(int.TryParse(string, out _))) /* check if string is valid with checking if it is of lenght 8 and also fully numeric */
 			{
 				Console.WriteLine("Error: input has to be lenght of 8 (put zeros where the input is not of full lenght) and it has to be fully numeric");
 				return 1;
